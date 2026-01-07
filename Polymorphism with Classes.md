@@ -27,8 +27,6 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 
 ## 💻 Program
 ~~~
-## Output
-
 class Beans(): 
      def type(self): 
        print("Vegetable") 
@@ -45,6 +43,9 @@ for func in (obj_beans,obj_mango):
     func.type()
     func.color()
 ~~~
+## Output
+<img width="821" height="349" alt="image" src="https://github.com/user-attachments/assets/893b7a68-7c8d-4a3f-8026-9eb934e5b0e1" />
+
 ## Result
 Thus,the program is executed successfully
 
